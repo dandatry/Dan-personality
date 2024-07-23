@@ -49,8 +49,7 @@
         <div class="container">
             <h2>Kontak</h2>
             <form action="submit-form.php" method="post">
-         
-            <p>Email: Dandatriwansyahputra300@gmail.com</p>
+         <p>Email: Dandatriwansyahputra300@gmail.com</p>
             <p>LinkedIn: <a href="https://www.instagram.com/irvine_nda">Instagram sayaa</a></p>
         </div>
     </section>
