@@ -49,14 +49,7 @@
         <div class="container">
             <h2>Kontak</h2>
             <form action="submit-form.php" method="post">
-                <label for="name">Nama:</label>
-                <input type="text" id="name" name="name" required>
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
-                <label for="message">Pesan:</label>
-                <textarea id="message" name="message" required></textarea>
-                <button type="submit">Kirim</button>
-            </form>
+         
             <p>Email: Dandatriwansyahputra300@gmail.com</p>
             <p>LinkedIn: <a href="https://www.instagram.com/irvine_nda">Instagram sayaa</a></p>
         </div>
